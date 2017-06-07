@@ -1,0 +1,66 @@
+1. Hours to complete the project: 10 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Model a Percolation System): When I started this problem,
+   I only had information about Programming Model and slightly about   
+   Data Abstraction. So, This problem became a little more tough,
+   becuase of the fact that we had to use WeightedQuickUnion which
+   we had not yet studied. So, declaring a grid and setting all the cells
+   was easier and I was also able to do open,isOpen with "For" loop but
+   it was not meeting the time conditions that was to be constant for this
+   problem. For that issue, I went to a SI session, when Kyler Mikulski (our
+   SI) went through major part of UnionFind techique and also helped in
+   how we can implement it. Later, with the checklist and video provided
+   by Professor, it was comparatively easier as we just had to do minor
+   thinking only and had to write a modest amount of code. The other
+   issue I had was with my bound issues as I kept getting a single error
+   regarding this which I was able to solved after talking with Professsor
+   Iyer. The last part that required that considerable thought was the 
+   Back Wash issue which I didn't even understand at first, but later realized
+   when I started performing tests by giving out particular "i" and "j" info
+   for a cell and it gave me true even for the sites which were not full. I was
+   unaware if I could use an extra UnionFind and so I just tried it out by 
+   creating one with (N*N+1) cell that is no sink on it, and just connected all
+   the open sites from top to it and among each other which made the site 
+   difference as full or not clear.    
+
+   Problem 2 (Estimate Percolation Threshold): This problem was mostly
+   mathematical where I used StdStats to find mean, standard deviation and
+   those values to find all the remaining values. The only problem was to
+   create the threshhold values as I couldnot figure out how to run all
+   the experiments. But I was able to do it using For loop till one system
+   percolates. Even after that I had issues as I kept getting all values 0,
+   when I printed the open cells count using API in Percolation. But the 
+   cells count never reset and the count kept increasing. Sp, I just set a new
+   double count and set it to 0 for every For loop so that count gets only the
+   number of open cells in particular Percolation. 
+  
+
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status        Help Received
+   Swami Iyer         Professor	    Through Piazza mostly. He helped me debug
+                                    my code as it was giving me a lot of
+                                    errors that I was unable to understand.
+                                    Most notable help was fixing my bounds in
+                                    isOpen method where I setup the wrong bound
+                                    and kept getting Out of bound error.   
+   Kyler Mikulski     SI	During a SI session, he clearly explained
+                                    how UnionFind works and also looked at my 
+                                    code to check if I was on right path.
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   1. The project was fun with a lot of though required. I particularly had to
+      keep re-writing the code as I kept finding a better way to solve it.
+   2. It was time-consuming but once the checklist was provided, it became 
+      considerably easy as much of the thinking was already done for us and
+      all we had to do was to change it in code.
+   3. With 3 weeks provided for this project, I think you prepared us for what
+      is coming up in terms of project for the rest of semester and Time
+      Management must be out prime focus.
