@@ -1,0 +1,48 @@
+1. Hours to complete the project: 17 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Board Data Type): After understanding what we have to do and
+                                able to figure out the helper function,
+                                this was a pretty straight forward problem.
+                                The thought required was really high as we
+                                had to find different values under different 
+                                conditions. The issue that I faced was in
+                                neighbors but Professor Swami helped me and
+                                I was able to solve it.
+                                
+
+   Problem 2 (Solver Data Type): Solving Solver was the only hard part in this
+                                 problem as everything else was straight. Even
+                                 in solver, understanding and following 
+                                 checklist was strictly needed as that made 
+                                 this problem considerably easier. I had one
+                                 issue but was able to solve it with my mate.
+
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   Swami Iyer         Professor    Helped me fix neighbor issue in Board.java
+                                   on two occasions: one, when I was printing 
+                                   same thing because of not cloning in every
+                                   step and next when I was unable to find an
+                                   exact format for the outputs.
+   
+   Justin Kwan        Classmate    Helped me figure out an issue as I was not
+                                   setting up a comparator in MinPQ and was 
+                                   getting error for not being able to convert
+                                   one to another.      
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   1. The project checklist was out really late as we were in the Springs
+      Break and we also had the exams the very next week.
+   2. It was a fun problem but maybe checklist could have been a lot better
+      like the first few checklists.
+   3. Considering it was a tough project, may be time extension would have 
+      helped as we also had the exam.
+    
