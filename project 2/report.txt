@@ -1,0 +1,54 @@
+1. Hours to complete the project: 4 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Deque): Approached it with basic concept of stack and queue.
+					  The only additional thing that I had on it was creating
+                      a previous node as all our teching was done on next node.
+				      So I just combined both the concepts and used checklist 
+                      to help me out with most of the issues. Despite passing
+                      test for it, Kyler though told me that I had not done 
+                      certain thing i.e. what if the first and last node are
+                      not connected to null after removing the old first and
+                      old last. SO I just modified my code accordingly so that
+                      now they check if they are null or not and if not, they
+                      do so.
+
+   Problem 2 (Random Queue): Solving this problem seemed a bit confusing at
+                             first but after using checklist and following the
+                             given instructions, it was preety similar to 
+                             resizing a queue. The problem I faced on it was
+                             while shuffling this queue. I was having an issue
+                             when I wasn't setting the size correctly. Prof. 
+                             Iyer helped me fix this issue as I was setting
+                             it's length to be it's size and getting wrong
+                             output. 
+
+   Problem 3 (Subset): The question was preety straight-forward as I was simply
+					   using a Random Queue to enqueue all the imput String in
+                       it and taking it out from Random Queue which would 
+                       return random elements which is our subset.
+
+   
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   Swami Iyer         Professor    Helped me debug the Random Queue. I was
+								   mixing up the queue length with its size  
+								   and was unable to shuffle the new array. 
+								   For that, Prof. looked at my code and helped
+								   me fix the issue in setting the correct size
+                                   of the queue.
+  
+   Kyler Mikulski     SI           Looked at my code and helped me figure out 
+								   what I was missing in my code which was 
+								   still passing the tests though.
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   1. The exercises were really helpful as they helped us visualize the
+      linked list which helped us grasp the stack and queue concept better. 
