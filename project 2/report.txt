@@ -8,7 +8,7 @@
                       a previous node as all our teching was done on next node.
 				      So I just combined both the concepts and used checklist 
                       to help me out with most of the issues. Despite passing
-                      test for it, Kyler though told me that I had not done 
+                      test for it, SI though told me that I had not done 
                       certain thing i.e. what if the first and last node are
                       not connected to null after removing the old first and
                       old last. SO I just modified my code accordingly so that
@@ -26,25 +26,11 @@
                              output. 
 
    Problem 3 (Subset): The question was preety straight-forward as I was simply
-					   using a Random Queue to enqueue all the imput String in
+		    using a Random Queue to enqueue all the imput String in
                        it and taking it out from Random Queue which would 
                        return random elements which is our subset.
 
    
-3. Did you receive help from anyone? List their names, status (classmate, 
-   CS210 grad, TA, other), and the nature of help received.
-
-   Name               Status       Help Received
-   Swami Iyer         Professor    Helped me debug the Random Queue. I was
-								   mixing up the queue length with its size  
-								   and was unable to shuffle the new array. 
-								   For that, Prof. looked at my code and helped
-								   me fix the issue in setting the correct size
-                                   of the queue.
-  
-   Kyler Mikulski     SI           Looked at my code and helped me figure out 
-								   what I was missing in my code which was 
-								   still passing the tests though.
 
 4. List any other comments here. Feel free to provide any feedback on how
    much you learned from doing the assignment, and whether you enjoyed
