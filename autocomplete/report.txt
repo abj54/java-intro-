@@ -8,7 +8,7 @@
                                   major part of the questions. The only method
                                   that I had problem with was sorting through 
                                   prefix order as I ended up with lot of 
-                                  different cases. Professor Swami helped me 
+                                  different cases. Professor helped me 
                                   fix this issue though.   
 
    Problem 2 (Binary Search Deluxe): It was a modified implementation of Binary 
@@ -28,16 +28,6 @@
                              issue from problem 2 was here as well.
                             
    
-3. Did you receive help from anyone? List their names, status (classmate, 
-   CS210 grad, TA, other), and the nature of help received.
-
-   Name               Status       Help Received
-   Swami Iyer         Professor    Helped me through Piazza in BinarySerach
-                                   issues and also helped me understand what 
-                                   is giving me the wrong output. Also he 
-                                   helped me understand the border cases. He 
-                                   also helped me figure out sorting the Terms
-                                   through prefix order.   			
 
 
 
