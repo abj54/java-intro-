@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=synsets\ hypernyms
+comment0.target=WordNet(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.Iterable\ nouns()
+comment2.params=word
+comment2.target=boolean\ isNoun(java.lang.String)
+comment3.params=noun1\ noun2
+comment3.target=java.lang.String\ sca(java.lang.String,\ java.lang.String)
+comment4.params=noun1\ noun2
+comment4.target=int\ distance(java.lang.String,\ java.lang.String)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

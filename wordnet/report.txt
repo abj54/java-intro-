@@ -1,0 +1,36 @@
+1. Hours to complete the project: 12 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (WordNet Data Type): Kyler helped us understood the file format
+      for sysnets and hypernyms and also the use of two symbol tables to 
+      store the data. After that it was fairly simple to solve the remaining
+      problems. 
+
+   Problem 2 (ShortestCommonAncestor Data Type): After learning BFS concept
+      to implement distTo method, this part was fairly simple. triad method
+      was a bit different compared to what we have done till now but the 
+      help is piazza was quite sufficient to understand it. All the other
+      methods were dependent on these two methods.
+
+   Problem 3 (Outcast Data Type): It was the easiest of all as all we had to
+     do was keep adding the distance between the two nouns and compare it
+     with the largest distance to return the string. 
+
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   Kyler Mikulski     SI           To understand the file format for
+                                   sysnets and hypernyms and he also helped
+                                   in understanding the distTo method using
+                                   hash table.
+
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   1. After doing K-D Tree, it was a relief for us.
+   2. Requires though but solvable project. 
