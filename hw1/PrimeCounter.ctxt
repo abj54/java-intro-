@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=boolean\ isPrime(int)
+comment1.params=N
+comment1.target=int\ primes(int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
