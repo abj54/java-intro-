@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=loc\ lat\ lon
+comment0.target=Location(java.lang.String,\ double,\ double)
+comment1.params=that
+comment1.target=double\ distanceTo(Location)
+comment2.params=that
+comment2.target=boolean\ equals(Location)
+comment3.params=that
+comment3.target=int\ compareTo(Location)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

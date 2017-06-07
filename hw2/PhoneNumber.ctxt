@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=area\ exch\ ext
+comment0.target=PhoneNumber(int,\ int,\ int)
+comment1.params=that
+comment1.target=boolean\ equals(PhoneNumber)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

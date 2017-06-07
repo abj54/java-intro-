@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=Rational(long)
+comment1.params=x\ y
+comment1.target=Rational(long,\ long)
+comment2.params=that
+comment2.target=Rational\ add(Rational)
+comment3.params=that
+comment3.target=Rational\ multiply(Rational)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=p\ q
+comment5.target=long\ gcd(long,\ long)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
