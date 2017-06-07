@@ -5,26 +5,15 @@
 
    Problem 1 (Brute-force Implementation): It was fairly simple after 
               understanding the concept of Red Black BST. I was unable to
-              understand how to implement it but after Kyler told me I was
+              understand how to implement it but after TA told me I was
               able to solve it.
 
    Problem 2 (2d-tree Implementation): This problem required considerable
               though as it was lengthy code as well as a lot of conceptual
               topics. The problems I faced were in the put and point iterator.
               Firstly, I was unable to determine the new rectangle's coordinate
-              on which Kyler was a huge help. And I was able to solve point
+              on which TA was a huge help. And I was able to solve point
               iterator once I clearly understood the pruning rules.
-
-3. Did you receive help from anyone? List their names, status (classmate, 
-   CS210 grad, TA, other), and the nature of help received.
-
-   Name               Status       Help Received
-   Kyler Mikulski      SI          Helped me understand the concept for second
-                                   problem. And then helped me figure out the
-                                   new rectangles at every put method. Also
-                                   taught me how to use each pruning rule,
-                                   especially for nearest point and it's 
-                                   iteration.
 
 
 
